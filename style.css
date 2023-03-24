@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: gilroy;
+}
+html,body{
+    width: 100%;
+    height: 100%;
+}
+
+#one{
+    font-size: 30px;
+    margin-left: 30%;
+}
+#two{
+    margin-top: 10%;
+    font-size: 30px;
+    margin-left: 30%;
+}
+#mouseover{
+    cursor: pointer;
+    margin-top: 10%;
+    font-size: 30px;
+    margin-left: 30%;
+}
+#text{
+    margin-left: 30%;
+}
+#hiddentext{
+    color: red;
+}
